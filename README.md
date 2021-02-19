@@ -6,7 +6,7 @@ The State of the Union is an annual address by the President of the United State
 
 # SOTU Buchanan 1857 : Project Overview
 * Identified the topic of this address by using Latent Dirichlet Allocation (LDA).
-* Employed Term Frequency-Inverse Document Frequency (TF-IDF) to converted tokenized words to vectors.
+* Employed Term Frequency-Inverse Document Frequency (TF-IDF) to convert tokenized words to vectors.
 * Tuned the hyperparameters such as number of topics, alpha, beta in order to maximize the model performance. 
 * Evaluated and chose the best model according to Coherence score and Perplexity.
 
